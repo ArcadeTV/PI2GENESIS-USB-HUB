@@ -1,0 +1,44 @@
+Partlist
+
+Exported from PI2GENESIS-HUB_SWITCH.sch at 22.03.17 22:21
+
+EAGLE Version 8.1.0 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant:
+
+Part     Value           Device                            Package                           Library  Sheet
+
+BC1      100nF           C0805                             Z0805                             arcadetv 1
+BC2      100nF           C0805                             Z0805                             arcadetv 1
+C1       220nF           C0805                             Z0805                             arcadetv 1
+C2       220nF           C0805                             Z0805                             arcadetv 1
+C3       4.7uF           EEEFPJ101UAR_PANASONIC_VFP-SERIES EEEFPJ101UAR_PANASONIC_VFP-SERIES arcadetv 1
+C4       4.7uF           EEEFPJ101UAR_PANASONIC_VFP-SERIES EEEFPJ101UAR_PANASONIC_VFP-SERIES arcadetv 1
+C5       10uF            EEEFPJ101UAR_PANASONIC_VFP-SERIES EEEFPJ101UAR_PANASONIC_VFP-SERIES arcadetv 1
+C6       10uF            EEEFPJ101UAR_PANASONIC_VFP-SERIES EEEFPJ101UAR_PANASONIC_VFP-SERIES arcadetv 1
+IC1      4070D           4070D                             SO14                              40xx     1
+IC2      ST662A          ST662A                            SO-8                              arcadetv 1
+R1       499             R-US_R0603                        R0603                             rcl      1
+R2       1K              R-US_R0603                        R0603                             rcl      1
+R3       2K              R-US_R0603                        R0603                             rcl      1
+R4       4K              R-US_R0603                        R0603                             rcl      1
+R5       8K              R-US_R0603                        R0603                             rcl      1
+R6       16K             R-US_R0603                        R0603                             rcl      1
+R7       499             R-US_R0603                        R0603                             rcl      1
+R8       1K              R-US_R0603                        R0603                             rcl      1
+R9       2K              R-US_R0603                        R0603                             rcl      1
+R10      4K              R-US_R0603                        R0603                             rcl      1
+R11      8K              R-US_R0603                        R0603                             rcl      1
+R12      16K             R-US_R0603                        R0603                             rcl      1
+R13      499             R-US_R0603                        R0603                             rcl      1
+R14      1K              R-US_R0603                        R0603                             rcl      1
+R15      2K              R-US_R0603                        R0603                             rcl      1
+R16      4K              R-US_R0603                        R0603                             rcl      1
+R17      8K              R-US_R0603                        R0603                             rcl      1
+R18      16K             R-US_R0603                        R0603                             rcl      1
+R19      120             R-US_R0603                        R0603                             rcl      1
+R20      120             R-US_R0603                        R0603                             rcl      1
+R22      4K7             R-US_R0603                        R0603                             rcl      1
+R23      4K7             R-US_R0603                        R0603                             rcl      1
+R29      220             R-US_R0603                        R0603                             rcl      1
+U$4      ALPS-SSSU011700 ALPS-SSSU011700                   ALPS-SSSU011700                   arcadetv 1

@@ -1,0 +1,5 @@
+CHANGELOG
+
+22.03.2017
+-Added Power Switch
+-Added Pads for 5V-IN and OUT, order is PSU->SWITCH->PI-DC-IN->GPIO->PCB
