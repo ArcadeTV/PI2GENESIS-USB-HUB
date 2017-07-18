@@ -10,12 +10,13 @@ Uses the original USB-sockets from the USB-Hub's PCB.
 
 ## PCB Specs and getting hands on the boards
 I can recommend itead.cc for pcb manufacturing. Either export the GERBER files from EAGLE using the files that I provided or wait until I finished writing this readme and find them inside the repository.
-
-PCB SPECS:
+```
+### PCB SPECS:
 ----------------
-10.0 x 5.0 cm
-1.2 mm Thickness
-Surface: HASL
+* 10.0 x 5.0 cm
+* 1.2 mm Thickness
+* Surface: HASL
+```
 
 ### Installing
 
@@ -76,13 +77,17 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Q&A's
 
 * Why did you abandon this project?
+
 • The USB-hubs are sold out and I have other stuff to care about.
 
 * Why is the Raspberry Pi's sound so bad over the headphone jack?
+
 • It's because of the PI's limitations regarding analogue sound. Get a USB-Soundcard! Those are dirtcheap and produce very acceptable audio.
 
 * Can I still use HDMI as Video-Output?
+
 • Sure, but then I suggest you just pass installing this pcb, it will not get you any advantage while using HDMI.
 
 * Man, I love your stuff - Can you please send me a fully loaded pcb because I have 2 left hands and can't solder.
+
 • Dude, just download the stuff that I release to the public. It usually contains everything you need to order PCBs wherever you want plus information on how to use or install it. Anyways, if you can't solder, sending you a pupulated PCB is like sending you a can, knowing you don't have a can-opener...
