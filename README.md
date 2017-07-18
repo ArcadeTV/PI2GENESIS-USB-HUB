@@ -78,16 +78,22 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Why did you abandon this project?
 
-• The USB-hubs are sold out and I have other stuff to care about.
+-> The USB-hubs are sold out and I have other stuff to care about.
+
+
 
 * Why is the Raspberry Pi's sound so bad over the headphone jack?
 
-• It's because of the PI's limitations regarding analogue sound. Get a USB-Soundcard! Those are dirtcheap and produce very acceptable audio.
+-> It's because of the PI's limitations regarding analogue sound. Get a USB-Soundcard! Those are dirtcheap and produce very acceptable audio.
+
+
 
 * Can I still use HDMI as Video-Output?
 
-• Sure, but then I suggest you just pass installing this pcb, it will not get you any advantage while using HDMI.
+-> Sure, but then I suggest you just pass installing this pcb, it will not get you any advantage while using HDMI.
+
+
 
 * Man, I love your stuff - Can you please send me a fully loaded pcb because I have 2 left hands and can't solder.
 
-• Dude, just download the stuff that I release to the public. It usually contains everything you need to order PCBs wherever you want plus information on how to use or install it. Anyways, if you can't solder, sending you a pupulated PCB is like sending you a can, knowing you don't have a can-opener...
+-> Dude, just download the stuff that I release to the public. It usually contains everything you need to order PCBs wherever you want plus information on how to use or install it. Anyways, if you can't solder, sending you a pupulated PCB is like sending you a can, knowing you don't have a can-opener...
